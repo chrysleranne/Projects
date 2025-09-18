@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<tittle>Facebook Profile Page</tittle>
+<link rel="stylesheet" href="https:/www.facebook.com/sandara.belwan.9"/>
+<style type="Text/css">
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+.container{
+width:350;
+}
+.photos{
+height:240;
+position:relative;
+}
+.photos . cover_photo{
+height:100%;
+width:100%;
+}
+.photos .profile_picture{
+height:180px;
+width:180px;
+border-radius:160px;
+overflow:hidden;
+background:#fff;
+padding:5px;
+position:absolute;
+top:40%;
+left:5%;
+}
+.profile_picture img{
+height:100%;
+width:100%;
+border-radius:50%;
+}
+
+.tittle{
+margin-top:55px;
+padding:0 15px;
+}
+.tittle h1{
+font-size:28px;
+display:inline-block;
+}
+.buttons{
+margin:15px 0;
+padding:0 15px;
+display:flex;
+justify-content:space-between;
+}
+.btn{
+padding:10px 17px;
+font-size:17px;
+border:none;
+outline:none;
+text-transform:capitalize;
+background:#ddd;
+border-radius:8px;
+font-weight:600;
+transition:all 0.1s;
+}
+.btn3{
+padding:10px 13px;
+}
+.btn1{
+background:#66e;
+color:white;
+}
+.btn1:hover{
+transform:scale(0.98);
+background:#44b;
+color:#eee;
+}
+
+.btn2:hover,
+.btn3:hover{
+transform:scale(0.98);
+background:#bbb;
+}
+
+
+</style>
+</head>
+<body>
+<div class="container"> 
+<section class="intro">
+
+<div class="photos">
+<img class="cover_photo" src="Photos/earth.jpg">
+<div class="profile_picture">
+<img src="Photos/YT.jpg">
+</div>
+</div>
+
+<div class="title">
+<h1>Coding YT</h1>
+</div>
+
+<divclass="buttons">
+<button class="btn btn1">
+<i class="fas fa-user-plus"></i>
+add friend
+</button>
+
+<divclass="buttons">
+<button class="btn btn2">
+<i class="fas fa-facebook-messenger"></i>
+message
+</button>
+
+<divclass="buttons">
+<button class="btn btn3">
+<i class="fas fa-solid fa-ellipsis"></i>
+
+</button>
+</div>
+</section>
+
+<section class="about">
+<hr>
+<ul>
+<li>
+<i class="fa-solid fa house"><//i>
+<p> Lives in <span>Phhilippines, Lucena City</span></p>
+</li>
+
+</ul>
+</section>
+
+</div>
+</body>
+</html>
