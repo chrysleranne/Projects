@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kiyoshi</title>
+    <link rel="stylesheet" href="csshehe">
+</head>
+<body>
+    <div class="container">
+        <h1>Ang Binibini Noong Unang Araw ng Pasukan!</h1>
+        <p>Noong unang araw ng pasukan, dala ko ang parehong kaba at pananabik na karaniwang kasama ng pagsisimula ng panibagong taon ng pag-aaral. Pero higit sa lahat, dala ko ang pag-asang makakilala ng mga bagong tao—mga taong maaari kong makasundo, makabuluhan ang magiging papel sa buhay ko, at marahil, maging malapit na kaibigan. Sa gitna ng maingay na mga usapan, mga bagong mukhang naglalakad sa pasillo, at mga pangalang unti-unting ipinapakilala, may isang babaeng agad na tumatak sa aking isipan.
+
+Hindi ko alam kung bakit. Siguro dahil sa paraan niya ng pag-ngiti, sa taimtim ng kanyang tingin, o sa tahimik ngunit magnetikong presensyang dala niya. Nang napunta kami sa iisang grupo at sabay na gumawa ng group chat, inakala kong iyon na ang simula ng mabilis at natural na pagkakaibigan. Parang ganoon naman kasi kadalasan: kapag magkagrupo, nagkakapalagayan. Kapag nagkausap na, nagiging magaan. Kaya nang matapos ang unang araw ng klase, bitbit ko ang ideya na mas mapapalalim pa namin ang pag-uusap.
+
+Ngunit tila nagkamali ako.
+
+Nang oras na ng uwian, binalikan ko sa isip kung paano kami naghiwa-hiwalay. Ang inaasahan kong simpleng "Ingat!" o kahit anumang maliit na interaksyon ay napalitan ng katahimikan. Hindi niya ako tiningnan, hindi niya ako kinausap, at parang biglang lumiit ang mundo ko habang papalayo siyang parang wala lang. Dinedma niya ako, at kahit gaano kasimple iyon para sa kanya, sapat na iyon para mag-iwan ng tanong sa isip ko: "Baka ako lang ang umaasa. Baka hindi talaga kami magiging magkaibigan."
+
+Ngunit ang tadhana ay mahilig magpatawa, minsan sa pinaka-magandang paraan.
+
+Unti-unti, sa mga araw na sumunod, nagkaroon ng maliliit na pagkakataon—isang simpleng sagot sa chat, isang sabayang tawanan sa loob ng klase, isang pagkukuwento na hindi ko inakalang ibabahagi niya. Unti-unti, bumukas siya. Unti-unti, nawala ang distansya. At bago ko pa man napagtanto, nagsimula kaming magpalitan ng loob, magtulungan sa hirap ng mga gawain, at makahanap ng munting pananahimik sa presensya ng isa’t isa.
+
+Ngayon, magkaibigan na kami—hindi dahil sa pilit, hindi dahil sa pagkakataon lang, kundi dahil pinili namin na buksan ang sarili sa isa’t isa. At sa araw na ito, may mas mahalagang dahilan upang alalahanin kung gaano ako nagpapasalamat noong unang araw ng pasukan: dahil kung hindi ko siya nakilala noon, hindi ko malalaman kung gaano kahalaga ang magiging papel niya ngayon sa buhay ko.
+
+Ngayon, kaarawan niya. Labing-walo na siya—isang mahalagang yugto, isang bagong kabanata. At habang nagdiriwang siya ng panibagong taon, kasama rin ang pagdiriwang ko sa pribilehiyong maging bahagi ng buhay niya. Hindi ko man inasahan ang lahat ng nangyari, pero nagpapasalamat ako sa bawat hakbang na nagdala sa amin dito. Sa unang araw ng pasukan, akala ko isang simpleng pagkikita lang. Ngayon, isa iyong alaala na laging magpapaalala kung paano nagsisimula ang pinakamagandang ugnayan sa pinaka-unexpected na paraan.
+
+Sa kanya na ngayon ay 18 taong gulang na—nawa’y maging masaya, makulay, at puno ng pagpapala ang kanyang bagong taon. At sana, sa paglipas ng panahon, manatili ang pagkakaibigan naming minsang nagsimula sa isang simpleng araw… at isang simpleng pagkakadinedma.</p>
+        <div class="gallery">
+            <img src="https://scontent.fmnl25-1.fna.fbcdn.net/v/t39.30808-6/585446374_122197859300386461_5324429653051877356_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGX7pF9dVmQWt3H6tn69tHsdDqRbXw4ed50OpFtfDh53ngdD6-tBMk7z-zKQVhIaKyTSjMP-zaW57sKQ2HbT45y&_nc_ohc=WWp_RUcwfu4Q7kNvwEII4kF&_nc_oc=AdlS6jG68-rFkVtdqmTVTkJQp7MbeaVtvxxjdwRuGgA2TpDQ0bGp0VeWO8AbJmN_l1Q&_nc_zt=23&_nc_ht=scontent.fmnl25-1.fna&_nc_gid=4EC_HD5UceUwFUz4zXeUFw&oh=00_AfibyAVvwjxgdve7_L_bcSu9GvqIjQemvIiDmCxJo8Ltsg&oe=69225911" alt="Picture 1">
+            <img src="https://scontent.fmnl25-6.fna.fbcdn.net/v/t39.30808-6/584423753_122197859294386461_860486858629267770_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEvB1tKQVdgL9hb2oeqpk3eNgql8UMyFOE2CqXxQzIU4TXohB8RfbLO8aixUMy21phB4Ooqc81F_AWOCb78oE9l&_nc_ohc=K5XyoNBPR2MQ7kNvwET5i1K&_nc_oc=AdkJLjdWSsIsRPSuF-JEKXhtgkgRzsTjCyORvxypbRZjh43nPNRPI9PVcPY8D9EVqLg&_nc_zt=23&_nc_ht=scontent.fmnl25-6.fna&_nc_gid=2yAxcjKvRftdRq8PKb0xMQ&oh=00_AfiLFmMAcO2vlI_XyfhwZ0pEqTJ-CjDigc9U6yWNouwPaQ&oe=6922430D" alt="Picture 2">
+            <img src="https://scontent.fmnl25-4.fna.fbcdn.net/v/t39.30808-6/584475099_122197859222386461_8596822800851164427_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGhnZbsxOqGhzKnGov-T-QT7luW2Z3H24buW5bZncfbhi7ReRs-814clJq-ofpZhuq8lQdHTmZ0THSt1B2T23ze&_nc_ohc=aeh6U19SBMIQ7kNvwGduFH2&_nc_oc=AdkFYaVQr82xGQ-EAMS2R9UdtxESkLejcw2kcWpjzdq7iF0ip7yEj8qllnio10Cs9sA&_nc_zt=23&_nc_ht=scontent.fmnl25-4.fna&_nc_gid=Nv5iDxsJv13A7D_bqrR95A&oh=00_AfiM1Lwyz4N0jlC_JL7ORd7oCJJyawnsAiMxihgfjg1LpA&oe=69224883" alt="Picture 3">
+            <img src="https://scontent.fmnl25-3.fna.fbcdn.net/v/t39.30808-6/584025930_122197859270386461_6301456561987571946_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEpK1WGAO9YzpqsZf1TsrGaR_wXe33TD9FH_Bd7fdMP0eKitV6wB5YM-tLZ59hLMnak7yvIhIzyb3yWD9TWza9R&_nc_ohc=mGbYDaiJk0YQ7kNvwH1mfPW&_nc_oc=AdnjsNe3Jq3yRkiU8bj8LTbldyFw5qEX9Bwa4TBOVZvF3xx8tsNVXbE7_DE8O-l9xTc&_nc_zt=23&_nc_ht=scontent.fmnl25-3.fna&_nc_gid=NSGqCeMDfogu8rG8_IBBvw&oh=00_AfjZMgNZL8IqrUJcDeSe2Dxt3TJpfGLLgOrvCcTXsc5jrQ&oe=692252EB" alt="Picture 4">
+            <img src="https://scontent.fmnl25-4.fna.fbcdn.net/v/t39.30808-6/585523109_122197860170386461_7099191968415803486_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeE6bxZJ9NngmIAXXbh7CFu2hbwjVxFAwMiFvCNXEUDAyEaK64FtqIXmhn5E2Vt5g1PH453zI7u0L9baFBhmSh24&_nc_ohc=x34heJXcEEwQ7kNvwE7A3wl&_nc_oc=Adkz36ywFab7vQlw6O1klRdZEB1qIhjh0SXrqaeZQ5JGSDXp1gMPTZEOIfLCkI-vJBA&_nc_zt=23&_nc_ht=scontent.fmnl25-4.fna&_nc_gid=7G5E6y6j9oGN9-374LmDhg&oh=00_AfjK0s_G7eFALgcWmGnNYWb4cuWdJSexjnIpvqBKIxOaOw&oe=69225B5E" alt="Picture 5">
+        </div>
+        <button>Nais mo pa? Ayoko nga</button>
+        <div class="balloons">
+            <div class="balloon"></div>
+            <div class="balloon"></div>
+            <div class="balloon"></div>
+        </div>
+        <div class="cake"></div>
+    </div>
+</body>
+</html>
